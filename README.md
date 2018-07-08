@@ -1,1 +1,3 @@
-# A simple android snake game based on android canvas
+# Android Snake Game
+
+A simple android snake game based on android canvas
